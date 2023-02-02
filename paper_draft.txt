@@ -1,0 +1,24 @@
+my workflow: 
+
+5 group members total 
+
+<MEMBER ROLES>
+-> 1 group member does the coding
+	- 2 other people are to support, come up with ideas, or check with each other
+
+-> 1-2 people write the project report
+	- they are to proofread each other writings
+	- check in with the coders to 
+
+-> 1-2 people are chosen to present the results
+	- presents the group project findings
+	- multiple people can split parts and agree which parts they want to present
+
+<TRACKING CHANGES>
+-> make sure the changes are committed and track on a shared GitHub repository 
+	- commits must have messages
+		- these messages must include the specific line and what was being changed 
+-> ensure that everyone in the group is kept up to date of the changes being made
+	- each members branch must be merged when committing changes
+
+
